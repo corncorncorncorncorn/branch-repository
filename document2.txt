@@ -1,4 +1,4 @@
-#디공수업들어야한다니
+#디공수업들어야한다니#집갈래
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
